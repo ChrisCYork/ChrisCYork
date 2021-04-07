@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Chris
 - I study electronic engineering.
 - I'm looking to collaberate on projects in C, Java and Python, in order to build experience.
-- You can reach me via linkedIn @ https://www.linkedin.com/in/christopher-cooper-electronics/
